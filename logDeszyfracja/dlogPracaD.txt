@@ -1,0 +1,43 @@
+Plugboard mappings:
+abcdefghijklmnopqrstuvwxyz0123456789.,:; ()[]'"-+/*&~`!@#$%^_={}|\<>?
+abcdefghijklmnopqrstuvwxyz0123456789.,:; ()[]'"-+/*&~`!@#$%^_={}|\<>?
+
+Rotor wirings:
+position rotor ring setting notch sequence
+       4     4            b     j esovpzjayquirhxlnftgkdcmwb4] -(&90*)"8[7/,;5'6.32:+1?><\|}{=^_%$#@!`~
+       3     3            b     v bdfhjlcprtxvznyeiwgakmusqo13579,2(['/-&;*48+60.:"]) ?><\|}{=^_%$#@!`~
+       2     2            b     e ajdksiruxblhwtmcqgznpyfvoe093.]8["/1,7+':2)6&;(*5- 4?><\|}{=^_%$#@!`~
+       1     1            b     q ekmflgdqvzntowyhxuspaibrcj4.:5,63)-&;' +*7/"](081[29?><\|}{=^_%$#@!`~
+
+reflector:  Type:1 [yruhqsldpxngokmiebfzcwvjat*["7)],3(/;6 .:8415&2+-90'?<>\|}{=_^%$#@`!~] 
+
+rotors:
+4: esovpzjayquirhxlnftgkdcmw->b4] -(&90*)"8[7/,;5'6.32:+1?><\|}{=^_%$#@!`~
+3: ->bdfhjlcprtxvznyeiwgakmusqo13579,2(['/-&;*48+60.:"]) ?><\|}{=^_%$#@!`~
+2: ajdksirux->blhwtmcqgznpyfvoe093.]8["/1,7+':2)6&;(*5- 4?><\|}{=^_%$#@!`~
+1: ekmflgdqvzntowyhxuspai->brcj4.:5,63)-&;' +*7/"](081[29?><\|}{=^_%$#@!`~
+
+
+Encryption
+b  b  b  r    n -> n -> u -> x -> p -> m -> o -> d -> o -> t -> k -> k
+b  b  b  c    f -> f -> o -> b -> e -> y -> a -> y -> l -> n -> r -> r
+b  b  b  j    c -> c -> k -> g -> o -> k -> n -> b -> f -> q -> a -> a
+b  b  b  4    m -> m -> t -> o -> d -> o -> m -> p -> x -> u -> k -> k
+b  b  b  .    " -> " -> @ -> } -> @ -> } -> $ -> = -> $ -> = -> o -> o
+b  b  b  :    c -> c -> m -> s -> ? -> d -> h -> k -> e -> v -> w -> w
+b  b  b  5    4 -> 4 -> 3 -> [ -> 5 -> 8 -> ( -> 8 -> 3 -> * ->   ->  
+b  b  b  ,    b -> b -> d -> r -> f -> i -> p -> i -> d -> y -> w -> w
+b  b  b  6    j -> j -> b -> c -> g -> ? -> ~ -> < -> ~ -> < -> a -> a
+b  b  b  3    < -> < -> b -> c -> g -> ? -> ~ -> < -> ~ -> < -> r -> r
+b  b  b  )    n -> n -> x -> n -> x -> v -> w -> n -> y -> r -> s -> s
+b  b  b  -    u -> u -> g -> t -> j -> t -> z -> 6 -> 2 -> 1 -> z -> z
+b  b  b  &    @ -> @ -> } -> @ -> } -> @ -> \ -> ` -> \ -> ` -> a -> a
+b  b  b  ;    \ -> \ -> m -> s -> ? -> d -> h -> k -> e -> v -> w -> w
+b  b  b  '    f -> f -> ~ -> < -> ~ -> < -> ` -> \ -> ` -> \ -> a -> a
+b  b  b       & -> & -> 4 -> 7 -> ) -> 4 -> ) -> , -> " -> + ->   ->  
+b  b  b  +    = -> = -> c -> j -> w -> l -> g -> m -> m -> s -> g -> g
+b  b  b  *    t -> t -> x -> n -> x -> v -> w -> n -> y -> r -> d -> d
+b  b  b  7    m -> m -> i -> a -> c -> u -> c -> u -> k -> j -> a -> a
+b  b  b  /    o -> o -> i -> a -> c -> u -> c -> u -> k -> j -> n -> n
+b  b  b  "    m -> m -> q -> f -> b -> n -> k -> o -> g -> k -> s -> s
+b  b  b  ]    | -> | -> e -> h -> q -> e -> q -> l -> u -> w -> k -> k

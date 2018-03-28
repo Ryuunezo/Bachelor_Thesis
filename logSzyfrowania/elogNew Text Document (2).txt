@@ -1,0 +1,33 @@
+Plugboard mappings:
+abcdefghijklmnopqrstuvwxyz0123456789.,:; ()[]'"-+/*&~`!@#$%^_={}|\<>?
+abcdefghijklmnopqrstuvwxyz0123456789.,:; ()[]'"-+/*&~`!@#$%^_={}|\<>?
+
+Rotor wirings:
+position rotor ring setting notch sequence
+       4     4            b     j esovpzjayquirhxlnftgkdcmwb4] -(&90*)"8[7/,;5'6.32:+1?><\|}{=^_%$#@!`~
+       3     3            b     v bdfhjlcprtxvznyeiwgakmusqo13579,2(['/-&;*48+60.:"]) ?><\|}{=^_%$#@!`~
+       2     2            b     e ajdksiruxblhwtmcqgznpyfvoe093.]8["/1,7+':2)6&;(*5- 4?><\|}{=^_%$#@!`~
+       1     1            b     q ekmflgdqvzntowyhxuspaibrcj4.:5,63)-&;' +*7/"](081[29?><\|}{=^_%$#@!`~
+
+reflector:  Type:1 [yruhqsldpxngokmiebfzcwvjat*["7)],3(/;6 .:8415&2+-90'?<>\|}{=_^%$#@`!~] 
+
+rotors:
+4: esovpzjayquirhxlnftgkdcmw->b4] -(&90*)"8[7/,;5'6.32:+1?><\|}{=^_%$#@!`~
+3: ->bdfhjlcprtxvznyeiwgakmusqo13579,2(['/-&;*48+60.:"]) ?><\|}{=^_%$#@!`~
+2: ajdksirux->blhwtmcqgznpyfvoe093.]8["/1,7+':2)6&;(*5- 4?><\|}{=^_%$#@!`~
+1: ekmflgdqvzntowyhxuspai->brcj4.:5,63)-&;' +*7/"](081[29?><\|}{=^_%$#@!`~
+
+
+Encryption
+b  b  b  r    a -> a -> d -> r -> f -> i -> p -> i -> d -> y -> 2 -> 2
+b  b  b  c    l -> l -> u -> x -> p -> m -> o -> d -> o -> t -> g -> g
+b  b  b  j    a -> a -> q -> f -> b -> n -> k -> o -> g -> k -> c -> c
+b  b  b  4      ->   -> / -> ; -> / -> - -> + -> ; -> * -> [ -> ; -> ;
+b  b  b  .    m -> m -> _ -> ^ -> % -> _ -> _ -> % -> ^ -> _ -> m -> m
+b  b  b  :    a -> a -> c -> j -> w -> l -> g -> m -> m -> s -> 0 -> 0
+b  b  b  5      ->   -> * -> 3 -> 8 -> ( -> 8 -> 5 -> [ -> 3 -> 4 -> 4
+b  b  b  ,    k -> k -> < -> ~ -> < -> ~ -> ? -> g -> c -> b -> _ -> _
+b  b  b  6    o -> o -> } -> @ -> } -> @ -> \ -> ` -> \ -> ` -> ] -> ]
+b  b  b  3    t -> t -> > -> & -> > -> & -> ' -> 9 -> ' -> 6 -> 4 -> 4
+b  b  b  )    r -> r -> t -> o -> d -> o -> m -> p -> x -> u -> q -> q
+b  b  b  -    a -> a -> # -> { -> # -> { -> % -> ^ -> _ -> % -> / -> /
